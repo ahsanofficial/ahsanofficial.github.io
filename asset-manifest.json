@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e9330b3c.css",
+    "main.js": "/static/js/main.ad22b983.js",
+    "static/media/tripvillas.png": "/static/media/tripvillas.bcc212e05abc9c384465.png",
+    "static/media/dotandkey.png": "/static/media/dotandkey.acfe7431cd82be6e5f26.png",
+    "static/media/engagebay.png": "/static/media/engagebay.1e30069dc7fe9f9e7e5c.png",
+    "static/media/1mg.png": "/static/media/1mg.75c84633ca8acbc806d8.png",
+    "static/media/skinstore.png": "/static/media/skinstore.81d583548e9e8224f21a.png",
+    "static/media/profile.png": "/static/media/profile.bb8d98e54fa21d1d88f9.png",
+    "static/media/avatar.jpg": "/static/media/avatar.e3f2c5beca927537f461.jpg",
+    "static/media/clockify.png": "/static/media/clockify.05c0ad2c10eb5b421f16.png",
+    "index.html": "/index.html",
+    "main.e9330b3c.css.map": "/static/css/main.e9330b3c.css.map",
+    "main.ad22b983.js.map": "/static/js/main.ad22b983.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9330b3c.css",
+    "static/js/main.ad22b983.js"
+  ]
+}
